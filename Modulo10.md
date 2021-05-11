@@ -6,6 +6,7 @@
 * https://www.jesusninoc.com/04/15/ejercicios-de-powershell-crear-y-recibir-un-job/
 
 #### Ejercicios de PowerShell: crear una serie de jobs sobre información de procesos y almacenar dicha información en logs (ruta absoluta del nombre del log)
+* https://www.jesusninoc.com/04/15/ejercicios-de-powershell-crear-y-recibir-un-job/
 
 ## Tareas programadas
 
