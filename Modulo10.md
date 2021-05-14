@@ -27,3 +27,6 @@
 
 ### Ofuscar
 * https://www.jesusninoc.com/11/11/obfuscate-powershell/
+
+## Scheduled job
+* https://www.jesusninoc.com/05/14/creates-and-starts-a-scheduled-job/
